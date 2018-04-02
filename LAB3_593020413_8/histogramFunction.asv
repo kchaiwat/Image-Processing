@@ -1,0 +1,7 @@
+img1 = imread('F:\work\s2\Image Processing\LAB3_593020413_8\img3_a.bmp');
+img2 = imread('F:\work\s2\Image Processing\LAB3_593020413_8\img3_b.bmp');
+img3 = imread('F:\work\s2\Image Processing\LAB3_593020413_8\img3_c.bmp');
+
+
+imhis
+
